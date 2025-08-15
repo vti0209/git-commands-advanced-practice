@@ -1,3 +1,3 @@
-﻿Header v1 from outside-change
+﻿Header v2 from me (edited on feature)
 Header v3 from outside-change (new conflict)
 
