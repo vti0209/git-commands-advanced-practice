@@ -1,3 +1,5 @@
 ﻿Header v2 from me (edited on feature)
+Header v1 from outside-change (edited on main)
 Header v3 from outside-change (new conflict)
 
+Tai 
